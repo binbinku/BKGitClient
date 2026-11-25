@@ -1,0 +1,5 @@
+Material Icon Theme 5.40.0
+https://github.com/material-extensions/vscode-material-icon-theme/releases/tag/v5.40.0
+
+The icons, default icon manifest, and LICENSE come from the official material-icon-theme npm package.
+Upstream icon sources include Material Design Icons and Google Material Symbols.

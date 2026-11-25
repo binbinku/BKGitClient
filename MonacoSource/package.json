@@ -1,0 +1,16 @@
+{
+  "name": "bkgitclient-monaco-viewer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "dompurify": "3.4.15",
+    "markdown-it": "15.0.3",
+    "monaco-editor": "0.57.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}
