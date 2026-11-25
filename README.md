@@ -13,6 +13,10 @@
   <sub>macOS 14+ · <a href="LICENSE">MIT License</a></sub>
 </p>
 
+![浅色模式下的提交历史，左侧是分支图，右侧是选中提交的变更文件](docs/screenshots/commit-history.png)
+
+<p align="center"><sub>提交历史 · 对照本地分支、远程上游与提交涉及的文件</sub></p>
+
 ## ✨ 功能
 
 | 功能 | 可以做什么 |
@@ -21,6 +25,10 @@
 | **工作区改动** | 浏览已暂存、未暂存和未跟踪的文件。同一文件同时有已暂存和未暂存的改动时，可以切换查看两种 Diff。 |
 | **项目文件** | 沿文件树阅读带语法高亮的只读源码。Markdown 支持预览、源码切换和目录跳转。 |
 | **远程仓库** | Fetch 当前分支的上游更新。若已配置 GitHub 远端，可直接在浏览器中打开仓库。 |
+
+![深色模式下的工作区，左侧列出文件状态，右侧以行内 Diff 显示代码增删](docs/screenshots/worktree-diff.png)
+
+<p align="center"><sub>工作区 Diff · 查看逐行改动，切换已暂存和未暂存版本</sub></p>
 
 ## 🖱️ 菜单栏用法
 
